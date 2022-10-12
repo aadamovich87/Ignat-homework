@@ -5,3 +5,15 @@
 .error {
     border: 1px solid red;
 }
+
+.errorName {
+    color: red;
+}
+.button:active{
+    color: black;
+    background: aquamarine;
+}
+.button:disabled {
+    color: grey;
+    background: #ffffff;
+}
